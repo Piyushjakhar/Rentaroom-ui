@@ -14,7 +14,7 @@ export default class Home extends Component {
                     <Nav>
                         <Nav.Link href="#home">Home</Nav.Link>
                         <Nav.Link href="#features">Features</Nav.Link>
-                        <Nav.Link href="#pricing">Post your Property</Nav.Link>
+                        <Nav.Link href="/add">Post your Property</Nav.Link>
                     </Nav>
                     <Nav>
                     <Nav.Link href="/login">
