@@ -1,6 +1,6 @@
 import {React, Component} from 'react';
-import { Navbar, Form, FormControl, Button, Nav, Container, NavDropdown, Col, Row, InputGroup} from 'react-bootstrap';
-import { Link } from 'react-router-dom';
+import { Form, Button, Container, Col, Row} from 'react-bootstrap';
+// import { Link } from 'react-router-dom';
 
 export default class Property extends Component {
     render () {
